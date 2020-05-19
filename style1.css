@@ -1,0 +1,55 @@
+
+.nav{
+	
+	background-color:powderblue;height:50vh;
+}
+.nav-link{
+	
+border:2px solid red;border-radius:15px;margin:7px;font-family:italic !important;
+	
+}
+.navb{
+	background-color:red;
+	padding:5px;font-size:30px !important;
+}
+.nav-item .nav-link:hover{
+background-color:green!important ;
+	color:black !important;
+	
+}
+#home-section{
+background-color:powderblue ;	
+	
+}
+.d-flex.flex-row{
+	
+	border:2px solid blue !important;
+}
+.card{
+	
+	background-color:yellow;color:white;text-align:center ! important;
+}
+.mid-section{
+	background-color:pink;color:blue !important;
+	
+	
+}
+.underline{
+	text-decoration:underline;font-size:35px !important;
+	
+	
+}
+
+.min-section{
+	background-color:indigo;color:white !important;
+	
+}
+
+
+
+
+
+
+
+
+

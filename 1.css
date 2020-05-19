@@ -1,0 +1,35 @@
+.navbar{
+	
+	background-color:powderblue;
+}
+.nav-item{
+	margin-right:8px;font-size:25px;
+	
+	
+	
+}
+.nav-item .nav-link{
+	
+	font-size:20px;background-color:red;color:white;border:1px solid green;border-radius:8px !important;
+	
+}
+.nav-item .nav-link:hover{
+	background-color:green;color:black !important;
+	
+	
+}
+.bc-section{
+	background-image:url('bc.jpg');color:black !important;
+	
+
+}
+.bc-section .primary-overlay{
+	background:#8daccd;opacity:.7 !important;
+	
+	
+}
+.about-section{
+	
+	
+	
+}
